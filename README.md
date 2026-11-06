@@ -43,3 +43,7 @@ Websites, product work, research and learning projects by Abhishek Smitha Biju. 
 ## Infrastructure
 
 - [invariant-backup](projects/invariant-backup/README.md) — Private backup and recovery automation for Invariant.
+
+## Consolidated sources
+
+[Website demos](projects/website-demos/README.md) holds the private source collection.
