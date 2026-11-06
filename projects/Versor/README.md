@@ -1,0 +1,15 @@
+# Versor
+
+Restaurant websites and digital menus with owner-managed content.
+
+## Public preview
+
+[Visit the website](https://versor-one.vercel.app)
+
+## Private scope
+
+Application source, configuration and deployment setup.
+
+The source repository is private. This page provides a project overview and any configured public website link.
+
+[All projects](../../README.md)
